@@ -6,7 +6,13 @@ It includes features such as standard movement, building, god powers, win/lose c
 **Note:** After cloning, mark the resources directory as “Resources Root” in IntelliJ (Right-click > Mark Directory As > Resources Root)
 
 ---
+## Screenshots
 
+![Main Menu](docs/screenshots/main-menu.jpg)
+![Gameplay](docs/screenshots/gameplay.jpg)
+![Win Screen](docs/screenshots/winscreen.jpg)
+
+---
 ## Project Structure
 
 - `santorini.model` – Core game logic (e.g., Board, Cell, Player, Worker, etc.)
@@ -30,7 +36,6 @@ It includes features such as standard movement, building, god powers, win/lose c
 - Resources - Images used in the game can be found in `resources`
 
 ---
-
 ## How to create an executable:
 
 -	In Intellij, click on File --> Project Structure
@@ -43,7 +48,6 @@ OpenJDK version "22.0.2" (Corretto 22.0.2.9.1) and
 Ensure you are using Java 17 or above to run the project successfully.
 
 ---
-
 ## Author
 
 **Personal/Complete Version Developed by:**
