@@ -3,6 +3,8 @@
 This project is a turn-based digital implementation of the board game **Santorini**, written in Java using the Swing GUI framework. 
 It includes features such as standard movement, building, god powers, win/lose conditions, and turn management - along with a timer system and an original Nature Meter extension that introduces fast-paced, environmentally conscious decision-making.
 
+**Note:** After cloning, mark the resources directory as “Resources Root” in IntelliJ (Right-click > Mark Directory As > Resources Root)
+
 ---
 
 ## Project Structure
