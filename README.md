@@ -63,6 +63,6 @@ Originally a group assignment for FIT3077, with contributions from:
 - Aaron, 
 - Uchralt Myagmarsuren 
 
-**Original pixel-art and design aesthetic** by Ubaid Irfan.  
+**Pixel-art and design aesthetic** by Ubaid Irfan.  
 
 Monash University – FIT3077 Assignment Project Semester 1, 2025
