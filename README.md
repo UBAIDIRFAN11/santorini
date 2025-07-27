@@ -9,7 +9,11 @@ It includes features such as standard movement, building, god powers, win/lose c
 ## Screenshots
 
 ![Main Menu](docs/screenshots/main-menu.jpg)
+
 ![Gameplay](docs/screenshots/gameplay.jpg)
+
+![God Power Dialogue Box](docs/screenshots/god-power-dialogue-box.jpg)
+
 ![Win Screen](docs/screenshots/winscreen.jpg)
 
 ---
